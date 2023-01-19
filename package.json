@@ -1,0 +1,22 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript basics course building blockchain",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDYWINNER/typechain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LDYWINNER/typechain/issues"
+  },
+  "homepage": "https://github.com/LDYWINNER/typechain#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
